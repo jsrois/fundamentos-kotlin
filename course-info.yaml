@@ -1,0 +1,12 @@
+type: marketplace
+title: Fundamentos de Kotlin (Spanish)
+language: English
+summary: |-
+  Curso introductorio de kotlin para principiantes in Spanish.
+
+  ------
+
+  Introductory Course for Kotlin Beginners
+programming_language: Kotlin
+content:
+- introducción

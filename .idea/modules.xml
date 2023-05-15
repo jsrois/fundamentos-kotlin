@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fundamentos-kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/fundamentos-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/introducción/variables-valores-colecciones/fundamentos-kotlin.introducción-variables-valores-colecciones.iml" filepath="$PROJECT_DIR$/.idea/modules/introducción/variables-valores-colecciones/fundamentos-kotlin.introducción-variables-valores-colecciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/introducción/variables-valores-colecciones/fundamentos-kotlin.introducción-variables-valores-colecciones.main.iml" filepath="$PROJECT_DIR$/.idea/modules/introducción/variables-valores-colecciones/fundamentos-kotlin.introducción-variables-valores-colecciones.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/introducción/variables-valores-colecciones/fundamentos-kotlin.introducción-variables-valores-colecciones.test.iml" filepath="$PROJECT_DIR$/.idea/modules/introducción/variables-valores-colecciones/fundamentos-kotlin.introducción-variables-valores-colecciones.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/fundamentos-kotlin.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/fundamentos-kotlin.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/fundamentos-kotlin.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/fundamentos-kotlin.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/fundamentos-kotlin.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/fundamentos-kotlin.util.test.iml" />
+    </modules>
+  </component>
+</project>
